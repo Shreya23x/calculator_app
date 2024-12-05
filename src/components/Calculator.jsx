@@ -22,7 +22,7 @@ function Calculator() {
         }
         setNumber(answer)
       } catch (error) {
-        setNumber("Error")
+        setNumber("Baklol ho kya ")
         console.error("Incorrect validations " , (error))
       }
     }
